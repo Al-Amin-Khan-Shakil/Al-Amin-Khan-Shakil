@@ -2,7 +2,7 @@
 
 
 <h2>I'm Al Amin Khan Shakil! <img src="https://i.gifer.com/4vss.gif" width="70"></h2>
-<img align='right' src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="230" style="border-radius: 50%;">
+<img align='right' src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="230" style="border-radius: 100px;">
 <p><em>Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/ellievillalejos/)
