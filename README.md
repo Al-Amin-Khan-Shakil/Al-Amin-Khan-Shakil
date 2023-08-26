@@ -5,9 +5,10 @@
 <img align='right' src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="230" style="border-radius: 100px;">
 <p><em>Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/ellievillalejos/)
-[![Twitter Badge](https://img.shields.io/badge/-@miss_elliev_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/miss_elliev)
-[![ThePracticalDev Badge](https://img.shields.io/badge/-misselliev-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://dev.to/misselliev)](https://dev.to/misselliev)
+[**Linkedin**](https://www.linkedin.com/in/al-amin-khan-shakil-5a3b29252/)<br>
+[**Twitter**](https://twitter.com/AlAminKhan85004)<br>
+[**Facebook**](https://www.facebook.com/profile.php?id=100088592491412)
+
 
 ### <img src="https://thumbs.gfycat.com/SkinnyNauticalGyrfalcon-size_restricted.gif" width="50"> A little more about me...  
 
