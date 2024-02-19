@@ -19,7 +19,7 @@ const alAminKhanShakil = {
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS/SCSS,
    Semantic UI, Bootstrap, Material UI],
   askMeAbout: [Movie, The 1971, Music, Books, South Asian Culture],
-  challenge: "I am honing my javaScript skills and picking up unit testing",
+  challenge: "I am honing my AWS skills and picking up unit testing",
   funFacts: ['I have 1+ years of remote work experience with devs 
   from all over the world', 
   'my tiny Olaf is ready to wave at the right offer']
